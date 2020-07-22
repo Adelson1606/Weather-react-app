@@ -1,0 +1,171 @@
+{
+  "currentWeather": {
+      "name": "Irkutsk",
+      "country": "Russia",
+      "temperature": 20,
+      "unit": "C",
+      "weatherText": "Sunny",
+      "weatherIcon": 1
+  },
+  "fiveDaysWeather": [
+      {
+          "Date": "2020-07-20T07:00:00+08:00",
+          "EpochDate": 1595199600,
+          "Temperature": {
+              "Minimum": {
+                  "Value": 49,
+                  "Unit": "F",
+                  "UnitType": 18
+              },
+              "Maximum": {
+                  "Value": 74,
+                  "Unit": "F",
+                  "UnitType": 18
+              }
+          },
+          "Day": {
+              "Icon": 4,
+              "IconPhrase": "Intermittent clouds",
+              "HasPrecipitation": false
+          },
+          "Night": {
+              "Icon": 35,
+              "IconPhrase": "Partly cloudy",
+              "HasPrecipitation": false
+          },
+          "Sources": [
+              "AccuWeather"
+          ],
+          "MobileLink": "http://m.accuweather.com/en/ru/irkutsk/292712/daily-weather-forecast/292712?day=1&lang=en-us",
+          "Link": "http://www.accuweather.com/en/ru/irkutsk/292712/daily-weather-forecast/292712?day=1&lang=en-us"
+      },
+      {
+          "Date": "2020-07-21T07:00:00+08:00",
+          "EpochDate": 1595286000,
+          "Temperature": {
+              "Minimum": {
+                  "Value": 54,
+                  "Unit": "F",
+                  "UnitType": 18
+              },
+              "Maximum": {
+                  "Value": 79,
+                  "Unit": "F",
+                  "UnitType": 18
+              }
+          },
+          "Day": {
+              "Icon": 2,
+              "IconPhrase": "Mostly sunny",
+              "HasPrecipitation": false
+          },
+          "Night": {
+              "Icon": 38,
+              "IconPhrase": "Mostly cloudy",
+              "HasPrecipitation": false
+          },
+          "Sources": [
+              "AccuWeather"
+          ],
+          "MobileLink": "http://m.accuweather.com/en/ru/irkutsk/292712/daily-weather-forecast/292712?day=2&lang=en-us",
+          "Link": "http://www.accuweather.com/en/ru/irkutsk/292712/daily-weather-forecast/292712?day=2&lang=en-us"
+      },
+      {
+          "Date": "2020-07-22T07:00:00+08:00",
+          "EpochDate": 1595372400,
+          "Temperature": {
+              "Minimum": {
+                  "Value": 58,
+                  "Unit": "F",
+                  "UnitType": 18
+              },
+              "Maximum": {
+                  "Value": 80,
+                  "Unit": "F",
+                  "UnitType": 18
+              }
+          },
+          "Day": {
+              "Icon": 6,
+              "IconPhrase": "Mostly cloudy",
+              "HasPrecipitation": false
+          },
+          "Night": {
+              "Icon": 12,
+              "IconPhrase": "Showers",
+              "HasPrecipitation": true,
+              "PrecipitationType": "Rain",
+              "PrecipitationIntensity": "Light"
+          },
+          "Sources": [
+              "AccuWeather"
+          ],
+          "MobileLink": "http://m.accuweather.com/en/ru/irkutsk/292712/daily-weather-forecast/292712?day=3&lang=en-us",
+          "Link": "http://www.accuweather.com/en/ru/irkutsk/292712/daily-weather-forecast/292712?day=3&lang=en-us"
+      },
+      {
+          "Date": "2020-07-23T07:00:00+08:00",
+          "EpochDate": 1595458800,
+          "Temperature": {
+              "Minimum": {
+                  "Value": 56,
+                  "Unit": "F",
+                  "UnitType": 18
+              },
+              "Maximum": {
+                  "Value": 74,
+                  "Unit": "F",
+                  "UnitType": 18
+              }
+          },
+          "Day": {
+              "Icon": 6,
+              "IconPhrase": "Mostly cloudy",
+              "HasPrecipitation": true,
+              "PrecipitationType": "Rain",
+              "PrecipitationIntensity": "Light"
+          },
+          "Night": {
+              "Icon": 36,
+              "IconPhrase": "Intermittent clouds",
+              "HasPrecipitation": false
+          },
+          "Sources": [
+              "AccuWeather"
+          ],
+          "MobileLink": "http://m.accuweather.com/en/ru/irkutsk/292712/daily-weather-forecast/292712?day=4&lang=en-us",
+          "Link": "http://www.accuweather.com/en/ru/irkutsk/292712/daily-weather-forecast/292712?day=4&lang=en-us"
+      },
+      {
+          "Date": "2020-07-24T07:00:00+08:00",
+          "EpochDate": 1595545200,
+          "Temperature": {
+              "Minimum": {
+                  "Value": 54,
+                  "Unit": "F",
+                  "UnitType": 18
+              },
+              "Maximum": {
+                  "Value": 76,
+                  "Unit": "F",
+                  "UnitType": 18
+              }
+          },
+          "Day": {
+              "Icon": 6,
+              "IconPhrase": "Mostly cloudy",
+              "HasPrecipitation": false
+          },
+          "Night": {
+              "Icon": 35,
+              "IconPhrase": "Partly cloudy",
+              "HasPrecipitation": false
+          },
+          "Sources": [
+              "AccuWeather"
+          ],
+          "MobileLink": "http://m.accuweather.com/en/ru/irkutsk/292712/daily-weather-forecast/292712?day=5&lang=en-us",
+          "Link": "http://www.accuweather.com/en/ru/irkutsk/292712/daily-weather-forecast/292712?day=5&lang=en-us"
+      }
+  ]
+}
